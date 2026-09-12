@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Nombre completo: Marcos Ancelmo Naranjo Rivera [l23212218@tijuana.tecnm.mx]
+Nombre completo: Marcos Ancelmo Naranjo Rivera 23212218 [l23212218@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
